@@ -1,3 +1,3 @@
 print("hello this is test for git")
 
-print("hello this is test for git v6")
+printhello this is test for git v6")
